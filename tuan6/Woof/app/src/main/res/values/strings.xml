@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Woof</string>
+        <string name="years_old">%1$d tuổi</string>
+
+        <string name="dog_name_1">Bella</string>
+        <string name="dog_name_2">Faye</string>
+        <string name="dog_name_3">Frankie</string>
+        <string name="dog_name_4">Koda</string>
+        <string name="dog_name_5">Leroy</string>
+        <string name="dog_name_6">Lola</string>
+        <string name="dog_name_7">Moana</string>
+        <string name="dog_name_8">Nox</string>
+        <string name="dog_name_9">Tzeitel</string>
+        <string name="dog_description_1">Thích ăn xương.</string>
+        <string name="dog_description_2">Hay ngủ nướng.</string>
+        <string name="dog_description_3">Thích chạy bộ.</string>
+        <string name="dog_description_4">Rất thông minh.</string>
+        <string name="dog_description_5">Thân thiện với trẻ em.</string>
+        <string name="dog_description_6">Hay sủa người lạ.</string>
+        <string name="dog_description_7">Bắt bóng giỏi.</string>
+        <string name="dog_description_8">Luôn bảo vệ chủ.</string>
+        <string name="dog_description_9">Thích đi dạo.</string>
+    <string name="about">Giới thiệu</string>
+    <string name="expand_button_content_description">Nhấn để xem thêm thông tin về chú chó</string>
+    <string name="dog_icon_content_description">Ảnh chân dung chú chó</string>
+</resources>
